@@ -215,7 +215,6 @@ function mesesDelAño(array) {
     {
       nuevoArray.push(array[i]);
     }
-    
   }
   
   if(nuevoArray[0] === undefined || nuevoArray[1] === undefined || nuevoArray[2] === undefined)
